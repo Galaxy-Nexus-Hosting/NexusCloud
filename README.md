@@ -1,9 +1,9 @@
 [![Build Status](http://jenkins.timo.cloud/job/TimoCloud/job/master/badge/icon)](http://jenkins.timo.cloud/job/TimoCloud/job/master/) <!--[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b341b86dc4704d59b54f059d0cf6d5d1)](https://www.codacy.com/project/TimoCrafter/TimoCloud/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=TimoCloud/TimoCloud&amp;utm_campaign=Badge_Grade_Dashboard)-->
-# TimoCloud
-TimoCloud is a Minecraft server/proxy management system ("Cloud System"). It will care about keeping online enough servers/proxies of every kind. But it's more than that. Thank to its algorithms, you'll never have to care again about servers or resources. TimoCloud automatically chooses servers with low CPU usage and enough available RAM to start your instances. And its integrated *Flow*-System makes updating templates easier than ever before: Edit one file in a server template, and the update will automatically be deployed to all bases (a.k.a. "Wrapper"). But of course, only the changed files will get updated.
+# NexusCloud
+NexusCloud is a Minecraft server/proxy management system ("Cloud System"). It will care about keeping online enough servers/proxies of every kind. But it's more than that. Thank to its algorithms, you'll never have to care again about servers or resources. TimoCloud automatically chooses servers with low CPU usage and enough available RAM to start your instances. And its integrated *Flow*-System makes updating templates easier than ever before: Edit one file in a server template, and the update will automatically be deployed to all bases (a.k.a. "Wrapper"). But of course, only the changed files will get updated.
 
 ## Features
-TimoCloud is full of innovative features. Here is a list of the most important ones:
+NexusCloud is full of innovative features. Here is a list of the most important ones:
 
  - **Automatic and dynamic starting** of Minecraft servers and BungeeCord/Velocity proxies - depending on the current online player amount.
  - **Automatic and dynamic selection** of a virtual machine (server) with **enough available resources** for an instance which is getting started.
@@ -24,8 +24,8 @@ TimoCloud is full of innovative features. Here is a list of the most important o
  ## Building from source
 **Please use Java 8 to Build the Projekt**
  ```
- git clone https://github.com/TimoCloud/TimoCloud
- cd TimoCloud
+ git clone https://github.com/Galaxy-Nexus-Hosting/NexusCloud
+ cd NexusCloud
  mvn clean package
  ```
  
@@ -33,6 +33,7 @@ TimoCloud is full of innovative features. Here is a list of the most important o
  For support, please join our [Discord](https://discord.gg/RTNn4SE)
  
  ## Hosting
-Are you looking for **cheap servers** with **high performance** working **perfectly** with TimoCloud? **KernelHost.de** offers everything you need and works perfectly with TimoCloud!
+Are you looking for **cheap servers** with **high performance** working **perfectly** with NexusCloud? **Galaxy Nexus** offers everything you need and works perfectly with NexusCloud!
 
- [![Hoster](https://timo.cloud/img/hoster_large.png)](https://www.kernelhost.de/rootserver-mieten)
+[Hosting Provider](https://clients.galaxynex.us)
+
